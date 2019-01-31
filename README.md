@@ -1,2 +1,2 @@
 # ComputerDesign
- ECE 437 Computer Design and Prototyping
+Designed single cycle, pipeling, and multicore cpu using System Verilog.
